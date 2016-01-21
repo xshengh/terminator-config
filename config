@@ -30,5 +30,5 @@
       profile = solarized-dark
     [[[window0]]]
       type = Window
-      parent = "" 
+      parent = ""
 [plugins]
